@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with www.majento.ru -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://math-deque.rhcloud.com/</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>1.00</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/article_by_cat/cat_id/analytic_geometry</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/article_by_cat/cat_id/formula</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/article_by_cat/cat_id/limits</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/article_by_cat/cat_id/linear_algebra</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/deistviya_s_matricami</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/formuly_kombinatoriki</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/lineinye_neravenstva</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/linejnaja_zavisimost_vektorov_bazis_vektorov</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/linii_vtorogo_poryadka_ellips</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/matrichnye_uravneniya_primery</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/method_gaussa</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/obratnaya_matrica</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/parabola_i_giperbola</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/pravilo_lopitala</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/primeri_resheniy_zadach_linii_2_poryadka</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/privesti_uravnenie_linii_2_poryadka_k_kanonicheskomu_vidu</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/rang_matricy</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/reshenie_sistem_lineynih_uravneniy</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/skaljarnoe_proizvedenie_vektorov</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/svoistva_opredelitelya_ponizhenie_matrici_poryadka_opredelitelya</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/tablica_integralov</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/tablica_proizvodnih</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/trigonometricheskie_formuli</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/uravnenie_pryamoi_na_ploskosti</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/vector_dlya_nachinayuschih</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/vektornoe_proizvedenie_smeshannoe_proizvedenie</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/vychislit_opredelitel_matrici</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/zadachi_s_pryamoi_na_ploskosti</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/zamechatelmie_predeli</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/chastnoe_reshenie_differencialnogo_uravneniya</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/compleksnie_chisla</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/pole_galua</loc>
+	<lastmod>2016-07-07T19:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/articles/index/article_id/neprivodimiy_mnogochlen</loc>
+	<lastmod>2016-07-07T18:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/main/about</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>http://math-deque.rhcloud.com/main/order</loc>
+	<lastmod>2016-07-07T15:11:56+03:00</lastmod>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+
+<url>
+	<loc>http://math-deque.rhcloud.com/calc</loc>
+	<priority>0.80</priority>
+	<changefreq>weekly</changefreq>
+</url>
+
+</urlset>

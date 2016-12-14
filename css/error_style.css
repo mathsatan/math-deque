@@ -1,0 +1,94 @@
+﻿* {
+    margin: 0;      /* Устанавливает величину отступа от каждого края элемента */
+    padding: 0;     /* Устанавливает значение полей вокруг содержимого элемента */
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+/* ссылки */
+a {
+    text-decoration: underline;
+    color: #000000;
+}
+a:hover {
+    text-decoration: none;
+}
+/*input, .description p {
+    font-family: 'Ubuntu Mono', ;
+    text-height: 0.75em;
+}*/
+br.clearfix {
+    clear: both;     /* Отменяет обтекание элемента одновременно с правого и левого края */
+}
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1, h2, h3{ /* Главный заголовок, Под заголовок, Мелкий заголовок*/
+    text-transform: uppercase;
+}
+
+body {
+    line-height: 1.50em;    /* межстрочный интервал текста */
+    background: url("../img/00bd.png");
+    font-size: 12pt;
+    color: #353535;     /* цвет текста */
+}
+
+#footer {
+    width: auto;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    text-shadow: 1px 1px 0px rgba(255,255,255,0.7);
+}
+#footer a {
+    color: #000000;
+}
+
+#header {
+    height: 100px;
+    background: url(../img/cap.png) no-repeat center;
+}
+
+#page {
+    padding: 5px;
+    margin: 0;
+    min-height: 500px;
+}
+
+#page-bottom {
+    padding: 10px 30px 0 30px;
+    color: #FFFFFF;
+    background: #222;
+    position: relative;
+    width: auto; /*898px;*/
+    margin: inherit;
+    border-top: solid 1px #e3e3e3;
+    box-shadow: inset 0px 0px 0px 1px #FFFFFF;
+   /* text-shadow: 1px 1px 0px rgba(125,125,125,0.9);*/
+}
+#page-bottom a {
+    color: #FFFFFF;
+}
+#page-bottom h2, #page-bottom h3, #page-bottom h4 {
+    color: #353535;
+}
+
+#wrapper {
+    width: 65%; /* 978px */
+    position: relative;
+    background: #FFFFFF;
+    margin: 0 auto 0 auto;
+    box-shadow: 10px 100px 150px 0px rgba(0,0,0,0.15);
+    border: solid 1px #D8D8D8;
+    border-top: 0;
+}
+
+.error_page {
+    text-align: center;
+}
+
+/* для языков */
+#lang_menu {
+    text-align: right;
+}

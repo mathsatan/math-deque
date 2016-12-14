@@ -1,0 +1,5 @@
+<div id="article_briefly">
+    <h2><a href='/articles/index/article_id/<#article_id#>' title="<#article_title#>"><#article_title#></a></h2>
+    <#article_text_briefly#>
+    <div class="article_date"><#date#></div>
+</div>

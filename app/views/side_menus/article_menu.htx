@@ -1,0 +1,5 @@
+<li><h2><#cat_name#></h2>
+    <ul>
+        <#menu_body#>
+    </ul>
+</li>

@@ -1,0 +1,4 @@
+<tr><td><#user_id#></td><td><#user_login#></td><td><#user_email#></td><td><#user_status#></td><td><#user_is_active#></td>
+    <td><a href="/admin/load_update_form/user_id/<#user_id#>" title="<#hint_update#>"><img src="/img/change.png" alt="<#hint_update#>"/> </a></td>
+    <td><a href="/admin/delete_user/user_id/<#user_id#>" title="<#hint_delete#>"><img src="/img/delete.png"/> </a></td>
+</tr>

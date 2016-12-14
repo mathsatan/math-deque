@@ -1,0 +1,440 @@
+﻿* {
+    margin: 0;      /* Устанавливает величину отступа от каждого края элемента */
+    padding: 0;     /* Устанавливает значение полей вокруг содержимого элемента */
+    font-family: 'Open Sans', sans-serif;
+   /* font-weight: 400;*/
+    /*border: solid 1px #FF0000;*/
+}
+
+a {
+    text-decoration: underline;
+    color: #000000;
+    font-weight: 400;
+}
+a:hover {
+    text-decoration: none;
+}
+
+br.clearfix {
+    clear: both;     /* Отменяет обтекание элемента одновременно с правого и левого края */
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 1.2;
+    font-size: 1.8em;
+}
+h1, h2, h3{ /* Главный заголовок, Под заголовок, Мелкий заголовок*/
+    text-transform: uppercase;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 400;
+}
+body {
+    line-height: 1.50em;    /* межстрочный интервал текста */
+    background: url("../img/00bd.png");
+    font-size: 12pt;
+    color: #353535;     /* цвет текста */
+}
+
+#footer {
+    width: auto;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    text-shadow: 1px 1px 0px rgba(255,255,255,0.7);
+}
+#footer a {
+    color: #000000;
+}
+
+#header {
+    height: 100px;
+    background: url(../img/cap.png) no-repeat center;
+}
+
+#page {
+    padding: 5px;
+    margin: 0;
+    min-height: 500px;
+}
+
+/* Контент страницы. Классы для статьи и логирования*/
+#content {
+    padding: 5px;
+    margin: 0;
+    width: 73%;
+    min-height: 620px;
+}
+
+#content h1, h3{
+    text-align: center; /* text align */
+}
+#content ul{
+    padding: 5px 5px 5px 25px;
+    margin: 5px;
+    list-style-type: disc;
+}
+#content .donate a{
+    font-size: 1.2em;
+    text-transform: uppercase;
+    color: #206ea1;
+}
+#content .donate {
+    text-align: center;
+    padding: 30px 10px 10px 10px;
+}
+
+#side_menu{
+    width: 27%;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.side_menu_item{
+    margin-top: 5px;
+    padding: 5px;
+}
+.side_menu_item img{
+    max-width: 100%;
+    height: auto;
+}
+.side_menu_item h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration-color: #000000;
+}
+.side_menu_item > ul{
+    list-style: none;
+}
+.side_menu_item > ul li h2{
+    font-weight: bold;
+    font-size: medium;
+}
+.side_menu_item > ul li ul{
+    list-style-type: disc;
+    padding: 10px 0px 5px 25px;
+}
+
+#page-bottom {
+    padding: 10px 30px 0 30px;
+    color: #FFFFFF;
+    background: #222;
+    position: relative;
+    width: auto; /*898px;*/
+    margin: inherit;
+    border-top: solid 1px #e3e3e3;
+    box-shadow: inset 0px 0px 0px 1px #FFFFFF;
+    height: auto;
+    min-height: 55px;
+   /* text-shadow: 1px 1px 0px rgba(125,125,125,0.9);*/
+}
+#page-bottom a {
+    color: #FFFFFF;
+}
+#page-bottom h2, #page-bottom h3, #page-bottom h4 {
+    color: #353535;
+}
+
+#wrapper {
+    width: 1034px;   /*65%; *//* 978px */
+    position: relative;
+    background: #FFFFFF;
+    margin: 0 auto 0 auto;
+    box-shadow: 10px 100px 150px 0px rgba(0,0,0,0.15);
+    border: solid 1px #D8D8D8;
+    border-top: 0;
+}
+
+/* для языков */
+#lang_menu {
+    float: right;
+}
+
+/* статьи */
+#article_briefly {
+    border: solid 1px #e3e3e3;
+    padding: 5px;
+    margin: 5px;
+    font-family: inherit;
+    max-height: 220px;
+    min-height: 140px;
+    overflow: auto;
+    word-wrap: break-word;
+    position: relative;
+    height: auto;
+}
+#article_briefly img {
+    float: left;
+    padding: 5px;
+    height: 120px;
+    border: none;
+}
+
+#article_briefly h2{
+    margin: 0;
+    padding: 5px;
+    text-transform: none;
+    font-size: 1em;
+}
+#article_briefly h2 a{
+    font-weight: 600;
+}
+
+
+#article_briefly div.article_date{
+    text-align: right;
+    padding: 0 10px;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+
+/* ARTICLE */
+.article {
+    /*margin: 5px 5px 50px 5px;*/
+    margin: 0;
+    padding: 10px;
+    text-align: justify;
+    line-height: 2.3em;
+    overflow: hidden;
+}
+.article ul, ol {
+    padding: 0 0 0 35px;
+}
+.article ul li, ol li {
+    padding: 5px 0 5px 10px;
+    margin-left: 40px;
+}
+
+.img{
+    max-height: 45%;
+    max-width: 35%;
+    text-align: center;
+    overflow: auto;
+}
+.img img{
+    max-height: 95%;
+    max-width: 95%;
+    margin-bottom: 20px;
+}
+.img div.cap{
+    line-height: 1.7;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.article p {
+    text-indent: 30px; /* Отступ первой строки в пикселах */
+    margin: 0 10px 0 5px;
+    padding: 5px;
+    height: auto;
+}
+
+.article h1, .article h2, #content div.article h3{
+    text-transform: none;
+    text-align: left;
+    font-weight: 600;
+    margin: 25px 5px 0 5px;
+}
+.article h1{
+    font-size: 2em;
+}
+.article h2{
+     font-size: 1.5em;
+ }
+#content div.article h3{
+    font-size: 1.2em;
+}
+
+.article ul{
+    display: block;
+}
+
+#content h3{
+    margin: 20px 5px 20px 5px;
+    text-align: left;
+    text-indent: 20px;
+}
+
+.article_comment div.date {
+    text-align: right;
+    font-size: small;
+}
+.article_comment div.user_name {
+    font-weight: bold;
+}
+
+/* articles list */
+#articles_list{
+    text-align: center;
+}
+
+#articles_list img {
+    max-height: 20%;
+    max-width: 30%;
+    padding: 25px;
+}
+
+#articles_list h3 {
+    text-align: center;
+}
+#articles_list ul {
+    text-align: left;
+}
+
+/* комментарии */
+.article_comment {
+    border: solid 1px #e3e3e3;
+    padding: 5px;
+    margin: 5px;
+    word-wrap: break-word;
+}
+.article_comment textarea {
+    width: 100%; /* Ширина поля в процентах */
+    resize: none; /* Запрещаем изменять размер */
+}
+
+.article_comment a.comment_delete {
+    padding: 0;
+    margin: 5px;
+    width: 16px;
+    height: 16px;
+    background: url("../img/event-close.png") no-repeat;
+    float: right;
+}
+
+.description{
+    text-align: justify;
+    padding: 10px;
+    margin: 10px;
+}
+.description h1, .description h2{
+    text-align: left;
+    margin: 20px;
+}
+.description h2{
+    text-transform: none;
+}
+
+.description img{
+    float: right;
+    padding: 10px;
+}
+div.center_img{
+	text-align: center;
+}
+div.center_img img{
+	float: none;
+}
+
+.description p{
+    line-height: 1.8;
+}
+
+td.center_button{
+    text-align: center;
+}
+td.center_button input[type="submit"]{
+    width: 50%;
+}
+td.rightcol {
+    text-align: right;
+}
+
+#user_table{
+    text-align: center;
+}
+#user_table h3{
+    padding: 10px 0 10px 0;
+}
+#user_table>img{
+    width: auto;
+    max-width: 60%;
+    max-height: 60%;
+    padding: 15px;
+}
+#user_table form table{
+    margin: auto;
+    width: auto;
+    border: none;
+}
+#user_table table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#user_table form table, form td, form th{
+    border: none;
+}
+#user_table table, td, th{
+    border: solid 1px #e3e3e3;
+    padding: 5px;
+}
+#user_table ul{
+    text-align: left;
+    list-style: decimal;
+    padding: 5px 10px;
+    margin: 5px 5px 5px 25px;
+}
+#user_table h4{
+    text-align: left;
+    padding: 5px 10px;
+}
+
+     /*calc*/
+#query table{
+    width: 95%;
+    padding: 5px;
+
+}
+#query table td{
+    border: solid 0;
+}
+#query table td.rightcol{
+    width: 20%;
+    margin: auto;
+}
+
+#query table td input.str/*[type="text"]*/{
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+    margin: auto;
+    box-shadow: inset 0px 0px 3px rgba(0,0,0,0.5);
+}
+
+#results{
+    opacity: 0;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#results.success{
+    background-color: #f0f0f0;
+    border: solid 1px #008000;
+}
+
+#results.fail{
+    background-color: #F7C8D2;
+    border: solid 1px #aa0000;
+}
+
+#wrapper div#processing {
+    text-align: center;
+    opacity: 0;
+    min-height: 126px;
+}
+
+div #graphic {
+	opacity: 0;
+	text-align: center;	
+}
+
+div #graphic img.math_plot{
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	margin: 10px;
+	margin-bottom: 20px;
+}

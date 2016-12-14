@@ -1,0 +1,27 @@
+.stick {
+	margin:5px;
+	padding:15px;
+	width:200px;
+}
+
+.exit {
+	background:url('../img/event-close.png') no-repeat;
+	width:16px;
+	height:16px;
+	float:right;
+	margin:-5px -5px 0 0;
+	cursor:pointer;
+}
+
+.classic {
+	border:1px solid #A7CD10;
+	background-color:#E1FAB8;
+	border-radius:15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+}
+
+.classic.stick_error {
+	border:1px solid #E2365C;
+	background-color:#F7C8D2;
+}

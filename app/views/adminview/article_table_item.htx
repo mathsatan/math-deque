@@ -1,0 +1,4 @@
+<tr><td><#article_id#></td><td><#article_title#></td><td><#article_author#></td>
+    <td><a href="/admin/load_update_article_form/article_id/<#article_id#>" title="<#hint_update#>"> <img src="/img/change.png"/> </a></td>
+    <td><a href="/admin/delete_article/article_id/<#article_id#>" title="<#hint_delete#>"> <img src="/img/delete.png"/> </a></td>
+</tr>

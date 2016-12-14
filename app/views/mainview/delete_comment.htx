@@ -1,0 +1,5 @@
+<!--<a class="comment_delete" href="/articles/delete_comment/comment_id/<#comment_id#>/article_id/<#article_id#>#pointer"></a>-->
+<form method="post" action="/articles/delete_comment/comment_id/<#comment_id#>/article_id/<#article_id#>" id="form_delete_comment_<#comment_id#>">
+    <input type="hidden" name="str_article_id" value="<#str_article_id#>">
+</form>
+<a href="#" class="comment_delete" onclick="document.getElementById('form_delete_comment_<#comment_id#>').submit(); return false;"></a>

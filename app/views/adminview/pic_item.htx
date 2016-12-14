@@ -1,0 +1,9 @@
+<tr><td class="pics"><a href="<#pic_path#>" target="_blank" title="<#pic_open_hint#>"><img src="<#pic_path_small#>"></a></td>
+    <td>&lt;div  class="img" style="float:<#pic_align#>"&gt;&lt;img src="<#pic_path#>" alt="<#pic_alt#>"&gt;&lt;div class="cap"&gt;<#pic_cap#>&lt;/div&gt;&lt;/div&gt;</td>
+    <td><a href="/admin/load_update_pic/pic_id/<#pic_id#>" title="<#hint_update#>"><img src="/img/change.png"/> </a></td>
+    <td><a href="/admin/delete_pic/pic_id/<#pic_id#>" title="<#hint_delete#>"><img src="/img/delete.png"/> </a></td></tr>
+
+
+
+
+

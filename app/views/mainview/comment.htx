@@ -1,0 +1,6 @@
+<div class="article_comment">
+    <#del_button#>
+    <div class="user_name"><#user_name#></div>
+    <#article_comment_text#>
+    <div class="date">[<#comment_date#>]</div>
+</div>

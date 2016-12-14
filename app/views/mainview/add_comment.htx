@@ -1,0 +1,11 @@
+<div class="article_comment">
+    <a name="pointer"></a>
+    <form id="comment_form" action='/articles/add_comment' method='post'>
+        <label><#your_comment#>:</label><br>
+        <textarea name="comment_text" maxlength="256" rows="5"></textarea><br>
+        <input type="hidden" name="user_id" value="<#user_id#>" />
+        <input type="hidden" name="article_id" value="<#article_id#>" />
+        <input type="hidden" name="str_article_id" value="<#str_article_id#>" />
+        <a href="#" onclick="document.getElementById('comment_form').submit(); return false;"><#submit#></a>
+    </form>
+</div>
